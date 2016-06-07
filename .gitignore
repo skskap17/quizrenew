@@ -47,3 +47,4 @@ Temporary Items
 .apdisk
 *.classpath
 *.xml
+WebContent/WEB-INF/lib/servlet-api.jar
